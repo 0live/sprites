@@ -1,0 +1,23 @@
+{
+  "mission_pin": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 28,
+    "x": 0,
+    "y": 0
+  },
+  "partner_pin": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 28,
+    "x": 28,
+    "y": 0
+  },
+  "provider_pin": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 28,
+    "x": 0,
+    "y": 40
+  }
+}
