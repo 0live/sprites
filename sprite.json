@@ -1,23 +1,23 @@
 {
   "mission_pin": {
-    "height": 299,
+    "height": 175,
     "pixelRatio": 1,
-    "width": 299,
+    "width": 175,
     "x": 0,
     "y": 0
   },
   "partner_pin": {
-    "height": 299,
+    "height": 175,
     "pixelRatio": 1,
-    "width": 299,
-    "x": 299,
+    "width": 175,
+    "x": 175,
     "y": 0
   },
   "provider_pin": {
-    "height": 299,
+    "height": 175,
     "pixelRatio": 1,
-    "width": 299,
+    "width": 175,
     "x": 0,
-    "y": 299
+    "y": 175
   }
 }
