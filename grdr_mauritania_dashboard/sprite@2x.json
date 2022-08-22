@@ -1,0 +1,65 @@
+{
+  "pin-sharp": {
+    "height": 492,
+    "pixelRatio": 1,
+    "width": 492,
+    "x": 0,
+    "y": 0
+  },
+  "pin-sharp-1": {
+    "height": 492,
+    "pixelRatio": 1,
+    "width": 492,
+    "x": 492,
+    "y": 0
+  },
+  "pin-sharp-2": {
+    "height": 492,
+    "pixelRatio": 1,
+    "width": 492,
+    "x": 0,
+    "y": 492
+  },
+  "pin-sharp-3": {
+    "height": 492,
+    "pixelRatio": 1,
+    "width": 492,
+    "x": 492,
+    "y": 492
+  },
+  "pin-sharp-4": {
+    "height": 492,
+    "pixelRatio": 1,
+    "width": 492,
+    "x": 984,
+    "y": 0
+  },
+  "pin-sharp-5": {
+    "height": 492,
+    "pixelRatio": 1,
+    "width": 492,
+    "x": 1476,
+    "y": 0
+  },
+  "pin-sharp-6": {
+    "height": 492,
+    "pixelRatio": 1,
+    "width": 492,
+    "x": 984,
+    "y": 492
+  },
+  "pin-sharp-7": {
+    "height": 492,
+    "pixelRatio": 1,
+    "width": 492,
+    "x": 1476,
+    "y": 492
+  },
+  "pin-sharp-8": {
+    "height": 492,
+    "pixelRatio": 1,
+    "width": 492,
+    "x": 0,
+    "y": 984
+  }
+}
