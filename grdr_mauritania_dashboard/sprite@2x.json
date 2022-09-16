@@ -1,65 +1,128 @@
 {
-  "pin-sharp": {
-    "height": 492,
+  "agences": {
+    "height": 156,
     "pixelRatio": 1,
-    "width": 492,
+    "width": 106,
     "x": 0,
     "y": 0
   },
-  "pin-sharp-1": {
-    "height": 492,
+  "agences_selected": {
+    "height": 156,
     "pixelRatio": 1,
-    "width": 492,
-    "x": 492,
+    "width": 106,
+    "x": 106,
     "y": 0
   },
-  "pin-sharp-2": {
-    "height": 492,
+  "associations": {
+    "height": 156,
     "pixelRatio": 1,
-    "width": 492,
+    "width": 106,
     "x": 0,
-    "y": 492
+    "y": 156
   },
-  "pin-sharp-3": {
-    "height": 492,
+  "associations_selected": {
+    "height": 156,
     "pixelRatio": 1,
-    "width": 492,
-    "x": 492,
-    "y": 492
+    "width": 106,
+    "x": 106,
+    "y": 156
   },
-  "pin-sharp-4": {
-    "height": 492,
+  "collectivites": {
+    "height": 156,
     "pixelRatio": 1,
-    "width": 492,
-    "x": 984,
+    "width": 106,
+    "x": 212,
     "y": 0
   },
-  "pin-sharp-5": {
-    "height": 492,
+  "collectivites_selected": {
+    "height": 156,
     "pixelRatio": 1,
-    "width": 492,
-    "x": 1476,
+    "width": 106,
+    "x": 318,
     "y": 0
   },
-  "pin-sharp-6": {
-    "height": 492,
+  "culturels": {
+    "height": 156,
     "pixelRatio": 1,
-    "width": 492,
-    "x": 984,
-    "y": 492
+    "width": 106,
+    "x": 212,
+    "y": 156
   },
-  "pin-sharp-7": {
-    "height": 492,
+  "culturels_selected": {
+    "height": 156,
     "pixelRatio": 1,
-    "width": 492,
-    "x": 1476,
-    "y": 492
+    "width": 106,
+    "x": 318,
+    "y": 156
   },
-  "pin-sharp-8": {
-    "height": 492,
+  "entreprises": {
+    "height": 156,
     "pixelRatio": 1,
-    "width": 492,
+    "width": 106,
     "x": 0,
-    "y": 984
+    "y": 312
+  },
+  "entreprises_selected": {
+    "height": 156,
+    "pixelRatio": 1,
+    "width": 106,
+    "x": 106,
+    "y": 312
+  },
+  "ong": {
+    "height": 156,
+    "pixelRatio": 1,
+    "width": 106,
+    "x": 212,
+    "y": 312
+  },
+  "ong_selected": {
+    "height": 156,
+    "pixelRatio": 1,
+    "width": 106,
+    "x": 318,
+    "y": 312
+  },
+  "osim": {
+    "height": 156,
+    "pixelRatio": 1,
+    "width": 106,
+    "x": 0,
+    "y": 468
+  },
+  "osim_selected": {
+    "height": 156,
+    "pixelRatio": 1,
+    "width": 106,
+    "x": 106,
+    "y": 468
+  },
+  "other": {
+    "height": 156,
+    "pixelRatio": 1,
+    "width": 106,
+    "x": 212,
+    "y": 468
+  },
+  "other_selected": {
+    "height": 156,
+    "pixelRatio": 1,
+    "width": 106,
+    "x": 318,
+    "y": 468
+  },
+  "recherches": {
+    "height": 156,
+    "pixelRatio": 1,
+    "width": 106,
+    "x": 424,
+    "y": 0
+  },
+  "recherches_selected": {
+    "height": 156,
+    "pixelRatio": 1,
+    "width": 106,
+    "x": 530,
+    "y": 0
   }
 }
